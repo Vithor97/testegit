@@ -1,0 +1,1 @@
+oi, estou testanto a integração do VS Code com o GIT.
